@@ -1,0 +1,7 @@
+{
+  "updater_api_service_address": "http://api.abitekno.com/SoftwareUpdater/v1/",
+  "updater_ftp_address": "ftp://www.abitekno.com/",
+  "errorlog_file_path":"log/updaterError.log",
+  "ftp_username":"uygulama@abitekno.com",
+  "ftp_password":"+3dt2/BEKBJwGXXoVzILuw=="
+}
