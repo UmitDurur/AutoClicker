@@ -168,15 +168,5 @@ namespace AutoClicker
             mcr.ShowDialog();
         }
     }
-    public class MacroEvent
-    {
-        EventType type;
-        int time, locationX, locationY;
 
-        public int Time { get => time; set => time = value; }
-        public int LocationX { get => locationX; set => locationX = value; }
-        public int LocationY { get => locationY; set => locationY = value; }
-        public EventType Type { get => type; set => type = value; }
-    }
-    public enum EventType { Click, Wait }
 }
