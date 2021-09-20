@@ -67,6 +67,7 @@
     </Compile>
     <Compile Include="Functions\KeyboardHook.cs" />
     <Compile Include="Functions\MouseOperations.cs" />
+    <Compile Include="MacroEvent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCreateMacro.resx">
